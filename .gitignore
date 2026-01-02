@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local env files (sensitive)
+.env
+.env.local
+.env.*.local
+
+# Caches / coverage
+.cache/
+coverage/
+.nyc_output/
+
+# Vite / bundler cache
+.vite/
+
+# Optional: bundler lockfile for bun (if using bun)
+# bun.lockb
