@@ -1,6 +1,8 @@
 <!-- Premium README: structured headings, TOC, concise and professional -->
 # City / Car RL Prototype
 
+![alt text](image.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Goals](#goals)
